@@ -34,7 +34,8 @@ public class CCuenta {
     	System.out.println("Saldo tras retirada: " + miCuenta.dSaldo + " euros");
         miCuenta.retirar(50);
     	System.out.println("Saldo tras retirada: " + miCuenta.dSaldo + " euros");
-        
+         miCuenta.retirar(50);
+    	System.out.println("Saldo tras retirada: " + miCuenta.dSaldo + " euros");
     }
     
     // Propiedades de la Clase Cuenta
