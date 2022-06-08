@@ -8,6 +8,11 @@ package com.mycompany.ccuenta1;
  * @author DE LEON
  */
 
+/**
+ * 
+ * @since 17-05-22
+ */
+
 public class CCuenta {
 	
     public static void main(String[] args) {
